@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(153, 147, 147); 
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.Car_imagem{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
